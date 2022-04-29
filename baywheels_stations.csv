@@ -1,0 +1,422 @@
+"id","latitude","longitude","name","docks"
+10,37.795393,-122.40477,"Washington St at Kearny St",30
+100,37.7671,-122.410662,"Bryant St at 15th St",19
+101,37.767079,-122.407359,"15th St at Potrero Ave",26
+102,37.766883,-122.399579,"Irwin St at 8th St",27
+104,37.767045,-122.390833,"4th St at 16th St",34
+105,37.764285,-122.431804,"16th St at Prosper St",18
+106,37.763242,-122.430675,"Sanchez St at 17th St",17
+107,37.763015,-122.426497,"17th St at Dolores St",21
+108,37.76471,-122.419957,"16th St Mission BART",8
+109,37.763316,-122.421904,"17th St at Valencia St",21
+11,37.79728,-122.398436,"Davis St at Jackson St",34
+110,37.763709,-122.415204,"17th & Folsom Street Park (17th St at Folsom St)",20
+113,37.764555,-122.410345,"Franklin Square",19
+114,37.764478,-122.40257,"Rhode Island St at 17th St",17
+115,37.765026,-122.398773,"Jackson Playground",27
+116,37.764802,-122.394771,"Mississippi St at 17th St",30
+118,37.759177,-122.436943,"Eureka Valley Recreation Center",18
+119,37.761047,-122.432642,"18th St at Noe St",15
+12,37.796389,-122.394586,"Pier 1/2 at The Embarcadero",21
+120,37.761421,-122.426435,"Mission Dolores Park",25
+121,37.75921,-122.421339,"Mission Playground",19
+122,37.760299,-122.418892,"19th St at Mission St",18
+123,37.760594,-122.414817,"Folsom St at 19th St",18
+124,37.760447,-122.410807,"19th St at Florida St",18
+125,37.759201,-122.409851,"20th St at Bryant St",15
+126,37.761634,-122.390648,"Esprit Park",27
+127,37.756708,-122.421025,"Valencia St at 21st St",22
+129,37.758862,-122.412544,"Harrison St at 20th St",19
+13,37.794231,-122.402923,"Commercial St at Montgomery St",20
+130,37.757704,-122.391885,"22nd St Caltrain Station",34
+131,37.755,-122.425728,"22nd St at Dolores St",22
+132,37.751819,-122.426614,"24th St at Chattanooga St",19
+133,37.755213,-122.420975,"Valencia St at 22nd St",21
+134,37.752428,-122.420628,"Valencia St at 24th St",22
+137,37.750506,-122.43395,"Jersey St at Castro St",18
+138,37.7509,-122.427411,"Jersey St at Church St",19
+139,37.751017,-122.411901,"Garfield Square (25th St at Harrison St)",21
+14,37.795001,-122.39997,"Clay St at Battery St",29
+140,37.747858,-122.424986,"Cesar Chavez St at Dolores St",15
+141,37.747998,-122.420219,"Valencia St at Cesar Chavez St",19
+142,37.745739,-122.42214,"Guerrero Park",12
+144,37.7473,-122.411403,"Precita Park",14
+145,37.743684,-122.426806,"29th St at Church St",15
+146,37.742314,-122.423181,"30th St at San Jose Ave",12
+147,37.744067,-122.421472,"29th St at Tiffany Ave",17
+148,37.829705,-122.28761,"Horton St at 40th St",23
+149,37.831275,-122.285633,"Emeryville Town Hall",22
+15,37.795392,-122.394203,"San Francisco Ferry Building (Harry Bridges Plaza)",36
+150,37.831277,-122.278267,"Adeline St at 40th St",14
+151,37.836182,-122.28718,"53rd St at Hollis St",23
+152,37.835632,-122.281051,"47th St at San Pablo Ave",19
+153,37.840945,-122.29136,"59th St at Horton St",19
+154,37.841924,-122.288045,"Doyle St at 59th St",14
+155,37.840521,-122.293528,"Emeryville Public Market",17
+156,37.838444,-122.288665,"Stanford Ave at Hollis St",14
+157,37.846784,-122.291376,"65th St at Hollis St",18
+158,37.833279,-122.26349,"Shattuck Ave at Telegraph Ave",19
+159,37.81606,-122.278244,"24th St at Market St",19
+16,37.794497,-122.394838,"Market St at Steuart St",24
+160,37.805318,-122.294837,"West Oakland BART Station",23
+162,37.800516,-122.27208,"Franklin St at 9th St",27
+163,37.79732,-122.26532,"Lake Merritt BART Station",27
+164,37.814988,-122.274844,"Isabella St at San Pablo Ave",18
+166,37.851376,-122.252523,"College Ave at Alcatraz Ave",15
+167,37.848152,-122.25216,"College Ave at Harwood Ave",19
+169,37.846516,-122.265304,"Bushrod Park",19
+17,37.792251,-122.397086,"Embarcadero BART Station (Beale St at Market St)",27
+170,37.844493,-122.261351,"Telegraph Ave at 58th St",15
+171,37.844279,-122.2519,"Rockridge BART Station",24
+172,37.8418,-122.251535,"College Ave at Taft Ave",15
+173,37.840364,-122.264488,"Shattuck Ave at 55th St",14
+174,37.836801,-122.264004,"Shattuck Ave at 51st St",19
+175,37.835946,-122.262366,"49th St at Telegraph Ave",15
+176,37.82841,-122.266315,"MacArthur BART Station",31
+177,37.826286,-122.2651,"MacArthur Blvd at Telegraph Ave",19
+178,37.819381,-122.261928,"Broadway at 30th St",19
+179,37.816073,-122.267886,"Telegraph Ave at 27th St",19
+18,37.850222,-122.260172,"Telegraph Ave at Alcatraz Ave",11
+180,37.812678,-122.268773,"Telegraph Ave at 23rd St",19
+181,37.811377,-122.265193,"Grand Ave at Webster St",25
+182,37.809369,-122.267951,"19th Street BART Station",29
+183,37.808702,-122.269927,"Telegraph Ave at 19th St",26
+186,37.801319,-122.262642,"Lakeside Dr at 14th St",25
+187,37.796248,-122.279352,"Jack London Square",27
+188,37.84263,-122.267738,"Dover St at 57th St",15
+189,37.839649,-122.271756,"Genoa St at 55th St",15
+19,37.788975,-122.403452,"Post St at Kearny St",34
+190,37.830223,-122.27095,"West St at 40th St",23
+191,37.830545,-122.273937,"Market St at 40th St",15
+192,37.826696,-122.271797,"37th St at West St",23
+193,37.812744,-122.247215,"Grand Ave at Santa Clara Ave",18
+194,37.811081,-122.243268,"Lakeshore Ave at Trestle Glen Rd",15
+195,37.812314,-122.260779,"Bay Pl at Vernon St",23
+196,37.808894,-122.25646,"Grand Ave at Perkins St",23
+197,37.808848,-122.24968,"El Embarcadero at Grand Ave",21
+198,37.807813,-122.264496,"Snow Park",31
+20,37.7913,-122.399051,"Mechanics Monument Plaza (Market St at Bush St)",21
+200,37.800214,-122.25381,"2nd Ave at E 18th St",19
+201,37.797673,-122.262997,"10th St at Fallon St",23
+202,37.800754,-122.274894,"Washington St at 8th St",27
+203,37.795195,-122.27397,"Webster St at 2nd St",25
+205,37.8388,-122.258732,"Miles Ave at Cavour St",19
+206,37.838127,-122.251271,"College Ave at Bryant Ave",23
+207,37.835788,-122.251621,"Broadway at Coronado Ave",22
+208,37.3328,-121.88385,"4th St at San Carlos St",19
+209,37.833558,-122.267418,"45th St at MLK Jr Way",19
+21,37.789625,-122.400811,"Montgomery St BART Station (Market St at 2nd St)",37
+211,37.827757,-122.256716,"Broadway at 40th St",23
+212,37.824893,-122.260437,"Mosswood Park",31
+213,37.823847,-122.281193,"32nd St at Adeline St",14
+214,37.823321,-122.275733,"Market St at Brockhurst St",19
+217,37.817015,-122.271762,"27th St at MLK Jr Way",16
+218,37.812332,-122.285171,"DeFremery Park",15
+22,37.789756,-122.394643,"Howard St at Beale St",26
+220,37.811351,-122.273422,"San Pablo Ave at MLK Jr Way",18
+221,37.794396,-122.253842,"6th Ave at E 12th St (Temporary Location)",15
+222,37.792714,-122.24878,"10th Ave at E 15th St",15
+223,37.764765,-122.420091,"16th St Mission BART Station 2",17
+224,37.800459,-122.247459,"21st St at 5th Ave",23
+225,37.785192,-122.234382,"23rd Ave at Foothill Blvd",15
+226,37.781123,-122.232992,"26th Ave at International Blvd",15
+228,37.77993,-122.217728,"Foothill Blvd at Harrington Ave",19
+229,37.774153,-122.212398,"Bond St at High St",18
+23,37.791464,-122.391034,"The Embarcadero at Steuart St",20
+231,37.80875,-122.283282,"14th St at Filbert St",19
+232,37.806163,-122.27604,"MLK Jr Way at 14th St",18
+233,37.795913,-122.255547,"4th Ave at E 12th St (Temporary Location)",19
+234,37.778058,-122.2254,"Fruitvale Ave at International Blvd",19
+235,37.807239,-122.28937,"Union St at 10th St",19
+237,37.775232,-122.224498,"Fruitvale BART Station",15
+238,37.871719,-122.273068,"MLK Jr Way at University Ave",23
+239,37.868813,-122.258764,"Bancroft Way at Telegraph Ave",19
+24,37.789677,-122.390429,"Spear St at Folsom St",15
+240,37.866043,-122.258804,"Haste St at Telegraph Ave",19
+241,37.852477,-122.270213,"Ashby BART Station",22
+242,37.860125,-122.269384,"Milvia St at Derby St",23
+243,37.86936,-122.254337,"Bancroft Way at College Ave",29
+244,37.873676,-122.268487,"Shattuck Ave at Hearst Ave",23
+245,37.870139,-122.268422,"Downtown Berkeley BART",28
+246,37.86906,-122.270556,"Berkeley Civic Center",26
+247,37.867789,-122.265896,"Fulton St at Bancroft Way",22
+248,37.855956,-122.259795,"Telegraph Ave at Ashby Ave",19
+249,37.858473,-122.253253,"Russell St at College Ave",19
+25,37.786928,-122.398113,"Howard St at 2nd St",18
+250,37.873558,-122.283093,"North Berkeley BART Station",27
+251,37.870555,-122.27972,"California St at University Ave",15
+252,37.865847,-122.267443,"Channing Way at Shattuck Ave",23
+253,37.866418,-122.253799,"Haste St at College Ave",23
+254,37.880222,-122.269592,"Vine St at Shattuck Ave",15
+255,37.876573,-122.269528,"Virginia St at Shattuck Ave",23
+256,37.875112,-122.260553,"Hearst Ave at Euclid Ave",13
+257,37.870407,-122.299676,"Fifth St at Delaware St",15
+258,37.872356,-122.266447,"University Ave at Oxford St",23
+259,37.866249,-122.299371,"Addison St at Fourth St",21
+26,37.78729,-122.39438,"1st St at Folsom St",17
+263,37.862827,-122.290231,"Channing Way at San Pablo Ave",23
+265,37.858868,-122.29121,"Ninth St at Parker St",14
+266,37.862464,-122.264791,"Parker St at Fulton St",22
+267,37.861804,-122.253569,"Derby St at College Ave",17
+268,37.85749,-122.261578,"Ellsworth St at Russell St",15
+269,37.86232,-122.258801,"Telegraph Ave at Carleton St",19
+27,37.788059,-122.391865,"Beale St at Harrison St",19
+270,37.853489,-122.289415,"Ninth St at Heinz Ave",14
+271,37.855783,-122.283127,"San Pablo Park",18
+273,37.855574,-122.263565,"Fulton St at Ashby Ave",19
+274,37.857567,-122.267558,"Oregon St at Adeline St",19
+275,37.342997,-121.888889,"Julian St at 6th St",15
+276,37.332233,-121.912517,"Julian St at The Alameda",23
+277,37.333677,-121.908618,"W Julian St at N Morrison St",19
+278,37.331932,-121.904888,"The Alameda at Bush St",22
+279,37.339146,-121.884105,"Santa Clara St at 7th St",15
+28,37.787168,-122.388098,"The Embarcadero at Bryant St",17
+280,37.337122,-121.883215,"San Fernando St at 7th St",20
+281,37.338395,-121.880797,"9th St at San Fernando St",19
+282,37.332426,-121.890349,"Market St at Park St",19
+283,37.330264,-121.897702,"Delmas Ave and San Fernando St",18
+284,37.784872,-122.400876,"Yerba Buena Center for the Arts (Howard St at 3rd St)",19
+285,37.783521,-122.431158,"Webster St at O'Farrell St",25
+286,37.336466,-121.876613,"San Carlos St at 11th St",19
+287,37.32673,-121.889273,"Almaden Blvd at Balbach St",19
+288,37.350964,-121.902016,"Mission St at 1st St",26
+289,37.350902,-121.895843,"5th St at Taylor St",23
+29,37.782405,-122.439446,"O'Farrell St at Divisadero St",27
+290,37.347593,-121.899662,"George St at 1st St",19
+291,37.341335,-121.903183,"Autumn Parkway at Coleman Ave",15
+292,37.344882,-121.896966,"Empire St at 1st St",19
+294,37.327581,-121.884559,"Pierce Ave at Market St",27
+295,37.332794,-121.875926,"William St at 10th St",23
+296,37.325998,-121.87712,"5th St at Virginia St",27
+297,37.32298,-121.887931,"Locust St at Grant St",19
+298,37.322125,-121.88109,"Oak St at 1st St",22
+299,37.323678,-121.874119,"Bestor Art Park",15
+3,37.786375,-122.404904,"Powell St BART Station (Market St at 4th St)",34
+30,37.776598,-122.395282,"San Francisco Caltrain (Townsend St at 4th St)",18
+300,37.317298,-121.884995,"Palm St at Willow St",19
+301,37.31845,-121.883172,"Willow St at Vine St",15
+303,37.352601,-121.905733,"San Pedro St at Hedding St",23
+304,37.348759,-121.894798,"Jackson St at 5th St",27
+305,37.342725,-121.895617,"Ryland Park",22
+306,37.339301,-121.889937,"Saint James Park",15
+307,37.332692,-121.900084,"SAP Center",23
+308,37.336802,-121.89409,"San Pedro Square",15
+309,37.337391,-121.886995,"San Jose City Hall",23
+31,37.783813,-122.434559,"Raymond Kimbell Playground",31
+310,37.335885,-121.88566,"San Fernando St at 4th St",22
+311,37.333798,-121.886943,"Paseo De San Antonio at 2nd St",18
+312,37.329732,-121.901782,"San Jose Diridon Station",35
+313,37.331415,-121.8932,"Almaden Blvd at San Fernando St",23
+314,37.333988,-121.894902,"Santa Clara St at Almaden Blvd",11
+315,37.834174,-122.272968,"Market St at 45th St",15
+316,37.331168,-121.886938,"1st St at San Carlos St",19
+317,37.333955,-121.877349,"San Salvador St at 9th St",18
+318,37.330698,-121.888979,"San Carlos St at Market St",15
+321,37.780645,-122.402866,"Folsom St at 5th St",30
+323,37.798014,-122.40595,"Broadway at Kearny",19
+324,37.7883,-122.408531,"Union Square (Powell St at Post St)",24
+327,37.332039,-121.881766,"5th St at San Salvador St",18
+33,37.78165,-122.415408,"Golden Gate Ave at Hyde St",22
+336,37.763281,-122.407377,"Potrero Ave and Mariposa St",24
+337,37.80697,-122.266588,"Webster St at 19th St",26
+339,37.800002,-122.266438,"Jackson St at 11th St",27
+34,37.783988,-122.412408,"Father Alfred E Boeddeker Park",22
+340,37.849735,-122.270582,"Harmon St at Adeline St",15
+341,37.336188,-121.889277,"Fountain Alley at S 2nd St",11
+343,37.783172,-122.393572,"Bryant St at 2nd St",25
+345,37.766483,-122.398279,"Hubbell St at 16th St",27
+349,37.780304,-122.406609,"Howard St at 6th St",27
+35,37.329119,-121.904576,"Cahill Park",23
+350,37.771431,-122.405787,"8th St at Brannan St",31
+351,37.86906,-122.2934,"10th St at University Ave",19
+352,37.726943,-122.4066,"Goettingen St at Bacon St",23
+355,37.755367,-122.388795,"23rd St at Tennessee St",30
+356,37.769188,-122.422285,"Valencia St at Clinton Park",18
+357,37.341132,-121.892844,"2nd St at Julian St",23
+358,37.729279,-122.392896,"Williams Ave at 3rd St",18
+359,37.730168,-122.398963,"Williams Ave at Apollo St",15
+36,37.78383,-122.39887,"Folsom St at 3rd St",31
+360,37.738572,-122.389618,"Newhall St at 3rd St",18
+361,37.739853,-122.385655,"Mendell St at Fairfax Ave",18
+362,37.731727,-122.390056,"Lane St at Revere Ave",19
+363,37.787492,-122.398285,"Salesforce Transit Center (Natoma St at 2nd St)",34
+364,37.772,-122.38997,"China Basin St at 3rd St",29
+365,37.78045,-122.431946,"Turk St at Fillmore St",23
+368,37.785434,-122.419622,"Myrtle St at Polk St",26
+369,37.787349,-122.416651,"Hyde St at Post St",25
+37,37.785377,-122.396906,"Folsom St at 2nd St",39
+370,37.787327,-122.413278,"Jones St at Post St",18
+371,37.802746,-122.413579,"Lombard St at Columbus Ave",18
+372,37.804037,-122.262409,"Madison St at 17th St",19
+373,37.751792,-122.405216,"Potrero del Sol Park (25th St at Utah St)",22
+375,37.774836,-122.446546,"Grove St at Masonic Ave",30
+376,37.760458,-122.38754,"Illinois St at 20th St",23
+377,37.771951,-122.453705,"Fell St at Stanyan St",19
+378,37.347712,-121.890553,"7th St at Empire St",30
+38,37.782926,-122.387921,"The Embarcadero at Pier 38",25
+380,37.779047,-122.447291,"Masonic Ave at Turk St",22
+381,37.758238,-122.426094,"20th St at Dolores St",27
+383,37.780787,-122.421934,"Golden Gate Ave at Franklin St",31
+384,37.79416,-122.421568,"Jackson St at Polk St",25
+385,37.850578,-122.278175,"Woolsey St at Sacramento St",13
+386,37.752105,-122.419724,"24th St at Bartlett St",16
+387,37.739813,-122.425523,"Randall St at Chenery St",18
+388,37.352887,-121.88605,"Backesto Park (Jackson St at 13th St)",15
+389,37.353062,-121.891937,"Taylor St at 9th St",23
+39,37.778999,-122.436861,"Scott St at Golden Gate Ave",26
+390,37.750434,-122.390447,"Indiana St at Cesar Chavez St",15
+391,37.35503,-121.904436,"1st St at Younger Ave",19
+392,37.36406,-121.911732,"Sonora Ave at 1st St",15
+393,37.338022,-121.919478,"Asbury St at The Alameda",23
+394,37.349426,-121.887619,"10th St at Empire St",23
+395,37.360854,-121.906834,"Kerley Dr at Rosemary St",27
+396,37.367678,-121.918794,"Metro Dr at Technology Dr",21
+397,37.361867,-121.909315,"Gish Rd at 1st St",22
+398,37.796471,-122.416858,"Leavenworth St at Broadway",18
+399,37.802636,-122.436289,"Bay St at Fillmore St",26
+4,37.785881,-122.408915,"Cyril Magnin St at Ellis St",34
+400,37.804272,-122.433537,"Buchanan St at North Point St",28
+401,37.365227,-121.916815,"Skyport Dr at Technology Dr",19
+402,37.356834,-121.895936,"Raymond Bernal Jr Memorial Park (8th St at Hedding St)",23
+403,37.355693,-121.892251,"10th St at Mission St",21
+404,37.345759,-121.870678,"21st St at Santa Clara St",18
+405,37.323451,-121.905976,"Sunol St at San Carlos St",25
+406,37.316736,-121.910005,"Parkmoor Ave at Race St",27
+407,37.315158,-121.897833,"Bird Ave at Coe Ave",15
+409,37.839543,-122.298718,"2100 Powell St",23
+41,37.78127,-122.41874,"Golden Gate Ave at Polk St",30
+410,37.7502,-122.386567,"Illinois St at Cesar Chavez St",19
+411,37.774018,-122.423809,"Octavia Blvd at Page St",25
+412,37.732813,-122.43414,"Glen Park BART Station",39
+413,37.720555,-122.447723,"Balboa Park BART Station",19
+415,37.319757,-121.892999,"Delmas Ave at Virginia St",18
+416,37.321182,-121.90309,"Auzerais Ave at Los Gatos Creek Trail",22
+417,37.326011,-121.912327,"Park Ave at Race St",23
+418,37.343985,-121.874385,"17th St at Santa Clara St",19
+419,37.788197,-122.420373,"Fern St at Polk St",21
+42,37.77865,-122.41823,"San Francisco City Hall (Polk St at Grove St)",19
+421,37.360001,-121.878778,"23rd St at Taylor St",19
+422,37.336775,-121.909149,"Stockton Ave at Lenzen Ave",23
+423,37.320316,-121.870099,"South San Jose State (7th St at Humboldt St)",30
+424,37.799208,-122.434122,"Greenwich St at Webster St",18
+425,37.311284,-121.896325,"Bird Ave at Willow St",19
+426,37.323345,-121.913497,"San Carlos St at Meridian Ave",19
+427,37.320969,-121.908296,"Auzerais Ave at Lincoln Ave",26
+43,37.778768,-122.415929,"San Francisco Public Library (Grove St at Hyde St)",25
+431,37.728282,-122.450695,"Judson Ave at Gennessee St",27
+432,37.733093,-122.390973,"Quesada Ave at 3rd St",18
+433,37.731657,-122.451122,"Gennessee St at Monterey Blvd",14
+434,37.725375,-122.39402,"Carroll Ave at 3rd St",23
+435,37.729393,-122.386537,"Jennings St at Revere Ave",19
+436,37.736296,-122.38997,"McKinnon Ave at 3rd St",23
+437,37.740178,-122.383736,"Evans Ave at Mendell St",15
+438,37.736852,-122.394251,"Oakdale Ave at Phelps St",19
+439,37.784372,-122.439478,"Post St at Divisadero St",31
+44,37.781074,-122.411738,"Civic Center/UN Plaza BART Station (Market St at McAllister St)",28
+440,37.76591,-122.449257,"Carl St at Cole St",23
+441,37.802288,-122.424509,"Chestnut St at Van Ness Ave",22
+442,37.365536,-121.867966,"Newbury Park Dr at King Rd",23
+443,37.320866,-121.876279,"3rd St at Keyes St",23
+444,37.371116,-121.881332,"Mercado Way at Sierra Rd",17
+445,37.786553,-122.399607,"Natoma St at New Montgomery St",21
+446,37.78228,-122.407313,"Mint St at Mission St",15
+450,37.763934,-122.470651,"Funston Ave at Irving St",27
+451,37.764091,-122.467378,"10th Ave at Irving St",22
+453,37.777934,-122.396973,"Brannan St at 4th St",17
+454,37.775176,-122.465007,"7th Ave at Cabrillo St",23
+455,37.775214,-122.458334,"McAllister St at Arguello Blvd",19
+456,37.781468,-122.458806,"Arguello Blvd at Geary Blvd",19
+457,37.763434,-122.464063,"7th Ave at Irving St",27
+458,37.765783,-122.457637,"Frederick St at Arguello Blvd",18
+459,37.753123,-122.405393,"Utah St at 24th St",15
+46,37.79014,-122.242373,"San Antonio Park",15
+460,37.769095,-122.386333,"Terry Francois Blvd at Warriors Way",41
+461,37.77133,-122.386622,"Terry Francois Blvd at Mission Bay Blvd N",26
+462,37.804648,-122.402087,"Cruise Terminal at Pier 27",20
+463,37.740322,-122.376784,"Heron's Head Park",26
+465,37.776329,-122.394438,"San Francisco Caltrain Station (King St at 4th St)",16
+466,37.779488,-122.463142,"5th Ave at Anza St",21
+467,37.782386,-122.391343,"Brannan St at Colin P Kelly Jr St",12
+468,37.77787,-122.422953,"Grove St at Gough St",25
+469,37.781982,-122.43577,"Ellis St at Pierce St",27
+47,37.780955,-122.399749,"4th St at Harrison St",29
+470,37.342663,-121.877292,"N 14th St at E Santa Clara St",22
+471,37.777609,-122.454622,"Turk Blvd at Stanyan St",21
+472,37.324126,-121.89972,"Columbia Ave at Bird Ave",23
+473,37.309014,-121.900011,"Willow St at Blewett Ave",23
+474,37.780471,-122.472823,"14th Ave at Geary Blvd",27
+475,37.340379,-121.864021,"22nd St at William St",15
+476,37.338468,-121.866521,"19th St at William St",15
+477,37.78072,-122.476104,"17th Ave at Geary Blvd",22
+478,37.800254,-122.425919,"Greenwich St at Franklin St",17
+480,37.788569,-122.435401,"Steiner St at California St",19
+481,37.781131,-122.447374,"O'Farrell St at Masonic Ave",27
+482,37.772658,-122.403681,"Brannan St at 7th St",21
+483,37.771229,-122.400886,"7th St at King St",26
+485,37.773263,-122.47123,"Funston Ave at Fulton St",26
+486,37.778487,-122.458645,"Arguello Blvd at Edward St",19
+487,37.800496,-122.410887,"Powell St at Columbus Ave",29
+488,37.72263,-122.392496,"Egbert Ave at Jennings St",26
+489,37.782498,-122.471968,"Funston Ave at Clement St",26
+49,37.78076,-122.394989,"S Park St at 3rd St",29
+490,37.781841,-122.467636,"9th Ave at Geary Blvd",27
+491,37.338671,-121.895644,"Devine St at San Pedro St",22
+492,37.790803,-122.43259,"Webster St at Clay St",18
+493,37.776664,-122.407908,"Folsom St at 7th St",19
+494,37.326282,-121.904911,"Park Ave at Laurel Grove Ln",18
+495,37.343208,-121.88439,"St James St at 9th St",19
+498,37.72589,-122.452444,"Frida Kahlo Way at Cloud Cir",23
+499,37.772303,-122.419796,"Otis St at Brady St",22
+5,37.783899,-122.408445,"Powell St BART Station (Market St at 5th St)",33
+50,37.780526,-122.390288,"2nd St at Townsend St",37
+500,37.802198,-122.401772,"Battery St at Filbert St",29
+506,37.782439,-122.465377,"7th Ave at Clement St",24
+508,37.782476,-122.442534,"St. Joseph's Ave at Geary Blvd",27
+509,37.742232,-122.386843,"Evans Ave at Newhall St",19
+51,37.776101,-122.453093,"Parker Ave at McAllister St",27
+510,37.785394,-122.431821,"Post St at Webster St",31
+511,37.78068,-122.450012,"Anza St at Collins St",27
+512,37.789688,-122.440688,"Divisadero St at Clay St",19
+52,37.777416,-122.441838,"McAllister St at Baker St",24
+53,37.775946,-122.437778,"Grove St at Divisadero",25
+54,37.777547,-122.433274,"Alamo Square (Steiner St at Fulton St)",23
+55,37.777053,-122.429559,"Webster St at Grove St",27
+56,37.773414,-122.427317,"Koshland Park",27
+58,37.776619,-122.417385,"Market St at 10th St",28
+59,37.774814,-122.418954,"S Van Ness Ave at Market St",27
+6,37.80477,-122.403234,"The Embarcadero at Sansome St",17
+60,37.77452,-122.409449,"8th St at Ringold St",29
+61,37.776513,-122.411306,"Howard St at 8th St",26
+62,37.777791,-122.406432,"Victoria Manalo Draves Park",15
+63,37.77591,-122.402575,"Bryant St at 6th St",19
+66,37.778742,-122.392741,"3rd St at Townsend St",37
+7,37.804562,-122.271738,"Frank H Ogawa Plaza",35
+70,37.773311,-122.444293,"Central Ave at Fell St",31
+71,37.773063,-122.439078,"Broderick St at Oak St",27
+72,37.772406,-122.43565,"Page St at Scott St",24
+73,37.771793,-122.433708,"Pierce St at Haight St",27
+74,37.776435,-122.426244,"Laguna St at Hayes St",27
+75,37.773793,-122.421239,"Market St at Franklin St",32
+76,37.771662,-122.422423,"McCoppin St at Valencia St",18
+77,37.773507,-122.41604,"11th St at Natoma St",19
+78,37.773717,-122.411647,"Folsom St at 9th St",26
+79,37.773492,-122.403673,"7th St at Brannan St",20
+8,37.799953,-122.398525,"The Embarcadero at Vallejo St",23
+80,37.775235,-122.397437,"Townsend St at 5th St",34
+81,37.77588,-122.39317,"Berry St at 4th St",35
+84,37.769201,-122.433812,"Duboce Park",19
+85,37.770083,-122.429156,"Church St at Duboce Ave",27
+86,37.769305,-122.426826,"Market St at Dolores St",18
+87,37.769757,-122.415674,"Folsom St at 13th St",26
+88,37.77003,-122.411726,"11th St at Bryant St",27
+89,37.769218,-122.407646,"Division St at Potrero Ave",24
+9,37.798572,-122.400869,"Broadway at Battery St",19
+90,37.771058,-122.402717,"Townsend St at 7th St",24
+91,37.771762,-122.398438,"Berry St at King St",19
+92,37.772301,-122.393028,"Mission Bay Kids Park",25
+93,37.770407,-122.391198,"4th St at Mission Bay Blvd S",26
+95,37.766219,-122.43106,"Sanchez St at 15th St",27
+96,37.76621,-122.426614,"Dolores St at 15th St",18
+97,37.768265,-122.42011,"14th St at Mission St",17
+98,37.765052,-122.421866,"Valencia St at 16th St",21
+99,37.767037,-122.415443,"Folsom St at 15th St",19
